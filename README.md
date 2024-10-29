@@ -15,9 +15,10 @@ O banco de dados foi projetado para permitir que:
 
 | Nome                             | E-mail                       | RA         |
 |----------------------------------|------------------------------|------------|
-| Guilherme Delciro da Silva       | g.delciro@uni9.edu.br        | 923209023  |
+| Bruno Armando dos Santos Alfieri       | brunosantos.alfieri@uni9.edu.br        | 924100667  |
 | Eduardo Martins de Souza Gonçalves | Dudu.060306@uni9.edu.br     | 924105036  |
 | Gabriel Henrique Mahmoud Cardoso | mahmoud.gabriel@uni9.edu.br  | 924104941  |
+| Guilherme Delciro da Silva       | g.delciro@uni9.edu.br        | 923209023  |
 
 ## Estrutura do Banco de Dados
 
